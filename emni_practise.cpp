@@ -12,5 +12,7 @@ int main ()
   else{
     cout<<"The Number is Odd."<<endl;
   }
+  for(int i=0;i<4;i++)
+    cout<<"ok"<<endl;
  return 0;
 }
